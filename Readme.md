@@ -1,0 +1,1 @@
+Programa desenvolvido como atividade avaliativa na disciplina Algoritmos. Para executá-lo corretamente, é necessário realizar a compilação com a opção -std=c99 para que seja incluída corretamente a função roundf(), utilizada neste programa.
